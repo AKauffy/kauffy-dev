@@ -1,0 +1,19 @@
+{
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com/in/ayden-kauffman",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://github.com/akauffy",
+      "icon": "github"
+    },
+    {
+      "name": "Email",
+      "href": "mailto:kauffmanayden@gmail.com",
+      "icon": "mail"
+    }
+  ]
+}

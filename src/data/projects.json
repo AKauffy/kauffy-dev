@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "name": "Word Embedding Visualizer",
+      "description": "A web app to visualize word embeddings using Three.js and React for interactive 3D graphics.",
+      "image": "/img/word_embedding.png",
+      "tags": [
+        "React",
+        "Three.js",
+        "Docker",
+        "NextJS",
+        "TailwindCSS"
+      ],
+      "links": [
+        {
+          "name": "Website",
+          "href": "https://huatnumbers.com",
+          "icon": "globe"
+        },
+        {
+          "name": "Source",
+          "href": "https://github.com/AKauffy/Word-Embedding-Visualizer",
+          "icon": "github"
+        }
+      ]
+    }
+  ]
+}

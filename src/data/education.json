@@ -1,0 +1,21 @@
+{
+  "education": [
+    {
+      "name": "University of Pittsburgh",
+      "href": "pitt.edu",
+      "logo": "/img/pitt.png",
+      "positions": [
+        {
+          "title": "BS in Computer Science",
+          "start": "Aug 2020",
+          "end": "Dec 2023",
+          "description": [
+            "Graduated with a Minor in Economics",
+            "Pitt Club Wrestling Team Captain",
+            "3-time recipient of the Dean's Honor List"
+          ]
+        }
+      ]
+    }
+  ]
+}

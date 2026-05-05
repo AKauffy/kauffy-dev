@@ -1,0 +1,49 @@
+{
+  "career": [
+    {
+      "name": "PNC Bank",
+      "href": "https://www.pnc.com/en/personal-banking.html",
+      "logo": "/img/pnc.jpg",
+      "positions": [
+        {
+          "title": "Software Engineer",
+          "start": "February 2025",
+          "description": [
+            "Full-stack engineer specializing in scalable account opening systems—building Spring Boot orchestration engines processing 250K+ monthly applications, integrating vendor APIs, and developing Angular frontends with enterprise infrastructure to deliver seamless onboarding experiences"
+          ]
+        },
+        {
+          "title": "Technology Development Program Associate (TDP)",
+          "start": "February 2024",
+          "end": "February 2025",
+          "description": [
+            "Migrated Angular applications serving 6,000+ users, built high-throughput fraud detection systems processing 2,000 transactions/second using Apache Camel and Kafka, and optimized data pipelines (Python, R, SQL) achieving 62% faster extraction times with Tableau visualization."
+          ]
+        },
+         {
+          "title": "Enterprise Technology Developer Intern",
+          "start": "February 2024",
+          "end": "February 2025",
+          "description": [
+            "Successfully migrated and streamlined the entire OKR metric data reporting process from Tableau to Microsoft Power Platform for a report leveraged monthly resulting in $10,500 a year in savings"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "University of Pittsburgh",
+      "href": "https://www.pitt.edu/",
+      "logo": "/img/pitt.png",
+      "positions": [
+        {
+          "title": "Technology Help Desk Consultant",
+          "start": "February 2022",
+          "end": "January 2024",
+          "description": [
+            "Provided technical support to customers and users experiencing issues by troubleshooting hardware and software problems, answering questions about system usage, and assisted with setting up and configuring technology"
+          ]
+        }
+      ]
+    }
+  ]
+}
