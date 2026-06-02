@@ -169,6 +169,6 @@ const cardData: Card[] = [
   },
   {
     id: 4,
-    url: "/img/Ayden-formal.jpg",
+    url: "/img/ayden-formal.jpg",
   },
 ];
