@@ -23,8 +23,8 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/AKauffy/portfolio:latest
-            ghcr.io/AKauffy/portfolio:${{ github.sha }}
+            ghcr.io/akauffy/kauffy-dev:latest
+            ghcr.io/akauffy/kauffy-dev:${{ github.sha }}
           labels: |
             org.opencontainers.image.source=https://github.com/${{ github.repository }}
           cache-from: type=gha
